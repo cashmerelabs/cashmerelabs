@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cashmerelabs
-- 👀 I’m interested in chains
+- 👀 I’m interested in omnichain.
 - 📫 How to reach me cashmereprotocol@gmail.com
