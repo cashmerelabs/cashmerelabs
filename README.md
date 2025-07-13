@@ -2,4 +2,4 @@
 - 👀 We interested in omnichain.
 - 📫 How to reach me cashmereprotocol@gmail.com
 - We are building middleware infrastructure for zero-slippage one-click native omnichain transfers. Built on Circle's CCTP and Tether's USDT0 as public good.
-Organization: https://github.com/cashmere-prod
+- Organization: https://github.com/cashmere-prod
